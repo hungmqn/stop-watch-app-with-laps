@@ -1,4 +1,4 @@
-# Step to run
+# Steps to run
 
 1. Download code.
 2. Install dependencies.
